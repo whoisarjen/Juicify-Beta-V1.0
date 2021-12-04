@@ -1,0 +1,10 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+            "namespace": "android_app",
+            "package_name": "app.juicify2.twa",
+            "sha256_cert_fingerprints": [
+                  "E2:62:BA:C9:C1:3B:E8:31:BB:65:12:9D:E0:52:44:49:EA:25:C8:49:A4:E1:D6:5E:96:8C:E7:D0:B7:2C:0A:06"
+            ]
+      }
+}]

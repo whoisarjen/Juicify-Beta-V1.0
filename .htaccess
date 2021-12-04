@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^/server/api/([A-Za-z0-9])/?$ index.php?parametr1=$1&parametr2=$2 [NC,L]
+RewriteRule ^/server/api/([A-Za-z0-9])/?$ index.php?parametr1=$1 [NC,L]
