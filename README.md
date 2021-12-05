@@ -1,4 +1,4 @@
-Juicify is an "coach app", which helps people manage their weight by analizing what they eat and suggesting what to change.
+Juicify is an "coach app" to help people manage weight by analizing what they eat and suggesting what to change.
 
 The app is wrote with Vue and styled with Vuetify. It also uses technology like PWA to be availably not only as web app, but also as native app. It comes with server, which use Websocket, Redis and mongoDB to prove best user expierence. The goal was to create as fast app as possible, so except caching on server site, Juicify uses indexedDB on client site, what allow to make the app working even, when there is not internet connection.
 
