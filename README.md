@@ -25,7 +25,7 @@ Vue, Javascript, MongoDB, Express, JWT, Redis, Socket.io, PWA, IndexedDB, Vuetif
 Live version should be available under this <a href="https://beta.juicify.app/">link</a> until 25.06.2022.
 
 
-Test password:
+Test's password:
 
 
 - Marek
