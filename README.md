@@ -1,4 +1,4 @@
-This code is cringe, but here I started and now I am here -> <a href="https://github.com/whoisarjen/Juicify">Juicify v2</a> 23.02.2022
+This code is cringe, but here I started and now I am here -> <a href="https://github.com/whoisarjen/Juicify">Juicify v2</a> (23.02.2022)
 
 
 <h2>Is it still working?</h2>
