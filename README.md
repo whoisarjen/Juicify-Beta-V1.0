@@ -4,7 +4,7 @@ This code is cringe, but here I started and now I am here -> <a href="https://gi
 <h2>Is it still working?</h2>
 
 
-Should work, but it's just relic I want to keep, if you want to see working version, check link above.
+Should works, but it's just relic I want to keep, if you want to see working version, check link above.
 
 
 If for some reason you want to launch it, follow Vue documentation.
